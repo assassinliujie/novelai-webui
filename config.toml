@@ -1,0 +1,7 @@
+[theme]
+base="light"
+
+[server]
+headless = true
+port = 20010
+address = "0.0.0.0"
