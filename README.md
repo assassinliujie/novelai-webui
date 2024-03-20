@@ -1,4 +1,6 @@
 # novelai-webui
 对接novelai官网的第三方webui，主要可以保存图片到服务器以及连续生成多张图片
-在/.streamlit中的两个配置文件中完善内容。
+
+在当前目录添加文件夹.streamlit，注意.不要缺少
+然后在.streamlit中添加config.toml和secrets.toml两个配置文件，并完善内容。这两个配置文件的示例见项目源码
 novel ai的apikey在novelai官网的账号设置里面找
