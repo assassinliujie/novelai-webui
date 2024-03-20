@@ -1,0 +1,2 @@
+# novelai-webui
+对接novelai官网的第三方webui，主要可以保存图片到服务器以及连续生成多张图片
